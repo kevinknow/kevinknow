@@ -9,8 +9,8 @@ I'am Zhenchao, currently a Master student graduated from the University of Edinb
 
 - 📫 How to reach me:
 
-- My school email: zhenchaoqi@hkust-gz.edu.cn
-- My personal email: 2626493q@gmail.com / s2325590@ed.ac.uk / kevin15806292830@163.com (mainly for jobs)
+- My school email: zhenchaoqi@hkust-gz.edu.cn / s2325590@ed.ac.uk 
+- My personal email: 2626493q@gmail.com / kevin15806292830@163.com (mainly for jobs)
 - WeChat: zhenchao1998
 <!--
 **kevinknow/kevinknow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
