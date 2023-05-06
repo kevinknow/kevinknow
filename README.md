@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'am Zhenchao, currently a Master student from The University of Edinburgh. My major is Sensors & Imaging system. I am interested in robotics and machine learning. Recently,
+I'am Zhenchao, currently a Master student graduated from the University of Edinburgh. My major is Sensors & Imaging system. I am interested in robotics and machine learning. Recently,
 
-- 🔭 I’m working on algorithms on quadrotor and machine-learning embedded controller. Recently, I am working on a MPC controller for drones in non-inertial frames.
-- 🌱 I’m worked as a RA at FAST Lab, Huzhou Institute of ZJU, 2022.10-2023.04.
-- I’m working as a RA at INTR, the Hong Kong University of Science and Technology, Guangzhou.
+- 🔭 I’m working on control algorithms between UAVs and UGVs. Recently, I am working on Multi-Agent Reinforcement Learning in the field of intelligent transportation.
+- 🌱 I’m worked as a RA at FAST Lab, Huzhou Institute of ZJU, Zhejiang, 2022.10-2023.04.
+- 🌱 I’m working as a RA at INTR System Hub, the Hong Kong University of Science and Technology, Guangzhou.
 - 💬 I am also interested in badminton, frisbee & music. You can check my website by kevinknow.cn 
 
 - 📫 How to reach me:
