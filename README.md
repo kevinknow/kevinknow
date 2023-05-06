@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'am Zhenchao, currently a Master student graduated from the University of Edinburgh. My major is Sensors & Imaging system. I am interested in robotics and machine learning. Recently,
+I'am Zhenchao, currently a master student graduated from the University of Edinburgh. My major is Sensors & Imaging system. I am interested in robotics and machine learning. Recently,
 
 - 🔭 I’m working on control algorithms between UAVs and UGVs. Recently, I am working on Multi-Agent Reinforcement Learning in the field of intelligent transportation.
 - 🌱 I’m worked as a RA at FAST Lab, Huzhou Institute of ZJU, Zhejiang, 2022.10-2023.04.
