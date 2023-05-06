@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'am QiZhenchao, currently a master student graduated from the University of Edinburgh. My major is Sensors & Imaging system. 
+I'am Zhenchao, currently a master student graduated from the University of Edinburgh. My major is Sensors & Imaging system. 
 I am interested in robotics and machine learning. Recently,
 
 - 🔭 I’m working on control algorithms between UAVs and UGVs. Recently, I am working on Multi-Agent Reinforcement Learning in the field of intelligent transportation.
