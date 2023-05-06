@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+I'am Zhenchao, currently an undergraduate student at The Chinese University of Hong Kong, Shenzhen. My major is computer engineering. I am interested in robotics and machine learning. Recently,
+
+🔭 I’m working on algorithms on quadrotor and machine-learning embedded controller. Recently, I am working on a MPC controller for drones in non-inertial frames.
+🌱 I’m working as a RA at FAST Lab, Huzhou Institute of ZJU.
+I am also interested in analog photography. Check my website to see some of my pictures.
+
+📫 How to reach me:
+
+My school email: baozhezhang@link.cuhk.edu.cn
+My personal email: zhang.baozhe2000@gmail.com / 907711755@qq.com / baozhezhang2000@163.com (mainly for jobs)
+WeChat: baozhezhang2000
 <!--
 **kevinknow/kevinknow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
