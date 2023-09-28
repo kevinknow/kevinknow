@@ -6,7 +6,7 @@ I'am Zhenchao, currently a master student graduated from the University of Edinb
 - 🌱 I’m worked as a AT at James Watt Nanofabrication Center, Glasgow, 2021.09-2022.01.
 - 🌱 I’m worked as a RA at FAST Lab, Zhejiang University, 2022.10-2023.04.
 - 🌱 I’m worked as a RA at INTR System Hub, the Hong Kong University of Science and Technology, Guangzhou.
-- 🌱 I’m working as a AE at RBMS department under VPTLO, HKUST (GZ) since 2023.07.06
+- 🌱 I’m working as a Engineer at RBMS department under VPTLO, HKUST (GZ) since 2023.07.06
 - 💬 I am also interested in badminton, frisbee & jazz music.
 - 📫 How to reach me ?
 - My school email: [zhenchaoqi@hkust-gz.edu.cn](mailto:zhenchaoqi@hkust-gz.edu.cn) / [s2325590@ed.ac.uk](mailto:s2325590@ed.ac.uk)
