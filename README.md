@@ -11,7 +11,7 @@ I'am Zhenchao, currently a master student graduated from the University of Edinb
 - 📫 How to reach me ?
 - My school email: [zhenchaoqi@hkust-gz.edu.cn](mailto:zhenchaoqi@hkust-gz.edu.cn) / [s2325590@ed.ac.uk](mailto:s2325590@ed.ac.uk)
 - My personal email: [2626493q@gmail.com](mailto:2626493q@gmail.com) / [kevin15806292830@163.com](mailto:kevin15806292830@163.com) (mainly for jobs)
-- WeChat ID:  zhenchao1998
+- WeChat ID:  zhenchao1128
 - ⚡ I am currently learning an instrument bass 🎸 on my own
 <!--
 **kevinknow/kevinknow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
