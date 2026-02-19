@@ -7,7 +7,7 @@ I'am Zhenchao, currently a master student graduated from the University of Edinb
 - 🌱 I’m worked as a RA at FAST Lab, Zhejiang University, 2022.10-2023.04.
 - 🌱 I’m worked as a RA at INTR System Hub, the Hong Kong University of Science and Technology, Guangzhou.
 - 🌱 I’m worked as an Assistant Engineer at RBMS department under VPTLO, HKUST (GZ) since 2023.07.06
-- 🌱 Now I’m a PhD student under SSSCPS Lab with Prof.Zhong; Thrust of Intelligent Transportation, System Hub, HKUST (GZ) since 2026.01.23
+- 🌱 Now I’m a PhD student under SSSCPS Lab（Laboratory for Safe, Secure, and Smart Cyber-Physical Systems）with Prof.Zhong; Thrust of Intelligent Transportation, System Hub, HKUST (GZ) since 2026.01.23
 - 💬 I am also interested in badminton, frisbee & jazz music.
 - 📫 How to reach me ?
 - My school email: [zhenchaoqi@hkust-gz.edu.cn](mailto:zqi504@connect.hkust-gz.edu.cn) / [s2325590@ed.ac.uk](mailto:s2325590@ed.ac.uk)
