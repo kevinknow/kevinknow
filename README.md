@@ -2,7 +2,7 @@
 
 I'am Zhenchao, currently a master student graduated from the University of Edinburgh 2021. My major is Sensors & Imaging Systems. I am interested in robotics and machine learning. Recently,
 
-- 🔭 I’m working on control algorithms between UAVs and UGVs. Recently, I am working on Multi-Agent Reinforcement Learning in the field of intelligent transportation.
+- 🔭 I’m working on control algorithms between UAVs and ROVs. Recently, I am working on Multi-Agent Reinforcement Learning in the field of intelligent transportation.
 - 🌱 I’m worked as a AT at James Watt Nanofabrication Center, Glasgow, 2021.09-2022.01.
 - 🌱 I’m worked as a RA at FAST Lab, Zhejiang University, 2022.10-2023.04.
 - 🌱 I’m worked as a RA at INTR System Hub, the Hong Kong University of Science and Technology, Guangzhou.
