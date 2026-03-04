@@ -12,7 +12,7 @@ I'am Zhenchao, currently a master student graduated from the University of Edinb
      Thrust of Intelligent Transportation, System Hub, HKUST (GZ) since 2026.01.23
 - 💬 I am also interested in badminton, frisbee & jazz music.
 - 📫 How to reach me ?
-- My school email: [zhenchaoqi@hkust-gz.edu.cn](mailto:zqi504@connect.hkust-gz.edu.cn) / [s2325590@ed.ac.uk](mailto:s2325590@ed.ac.uk)
+- My school email: [zqi504@connect.hkust-gz.edu.cn](mailto:zqi504@connect.hkust-gz.edu.cn) / [s2325590@ed.ac.uk](mailto:s2325590@ed.ac.uk)
 - My personal email: [2626493q@gmail.com](mailto:2626493q@gmail.com) / [kevin15806292830@163.com](mailto:kevin15806292830@163.com) (mainly for jobs)
 - WeChat ID:  zhenchao1128
 - ⚡ I am currently learning an instrument bass 🎸 on my own
